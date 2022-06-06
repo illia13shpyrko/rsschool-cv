@@ -8,7 +8,7 @@
 ----
 
 
-ilya.shpyrko@gmail.com      Poland, Krakow
+ilya.shpyrko@gmail.com        Poland, Krakow
 
 
 ### Working Experince
