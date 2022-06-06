@@ -1,0 +1,68 @@
+hr {
+    border: grey solid;
+}
+
+li {
+    margin-top: 10px;
+}
+
+.header {
+    text-align: center;
+}
+
+table, thead {
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid black;
+    font-size: 16px;
+    font-weight: bolder;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.github_page:visited {
+        text-align: center;
+}
+
+.github_page:hover {
+    color: black;
+}
+
+span {
+    display: block;
+}
+
+.footer {
+    width: 100%;
+    margin: 0;
+    padding: 10px;
+    text-align: center;
+    background-color: lightgrey;
+}
+
+footer h4 {
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.container{
+    width: 100%;
+    text-align: center;
+  }
+
+.link_course_js {
+    padding:1em;
+    text-align: center;
+    display:inline-block;
+    text-decoration: none;
+    margin:0 auto;
+}
+
+.github_page {
+    font-size: 20px;
+    font-weight: bolder;
+}
