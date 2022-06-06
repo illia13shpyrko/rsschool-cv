@@ -1,15 +1,12 @@
 hr {
     border: grey solid;
 }
-
 li {
     margin-top: 10px;
 }
-
 .header {
     text-align: center;
 }
-
 table, thead {
     table-layout: fixed;
     width: 100%;
@@ -18,24 +15,19 @@ table, thead {
     font-size: 16px;
     font-weight: bolder;
 }
-
 a {
     text-decoration: none;
     color: black;
 }
-
 .github_page:visited {
         text-align: center;
 }
-
 .github_page:hover {
     color: black;
 }
-
 span {
     display: block;
 }
-
 .footer {
     width: 100%;
     margin: 0;
@@ -48,12 +40,10 @@ footer h4 {
     font-size: 20px;
     font-weight: bolder;
 }
-
 .container{
     width: 100%;
     text-align: center;
   }
-
 .link_course_js {
     padding:1em;
     text-align: center;
@@ -61,7 +51,6 @@ footer h4 {
     text-decoration: none;
     margin:0 auto;
 }
-
 .github_page {
     font-size: 20px;
     font-weight: bolder;
